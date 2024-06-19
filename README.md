@@ -1,0 +1,2 @@
+# djangoi-april
+for students
